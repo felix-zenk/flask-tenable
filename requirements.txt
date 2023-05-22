@@ -1,0 +1,2 @@
+pyTenable==1.4.13
+Flask>=0.8
