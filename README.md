@@ -20,4 +20,4 @@ app.config must contain the following configs:
 | TenableAD | TENABLE_AD_API_KEY                                                        |
 | TenableIO | TENABLE_IO_ACCESS_KEY, TENABLE_IO_SECRET_KEY                              |
 | TenableOT | TENABLE_OT_API_KEY                                                        |
-| TenableSC | TENABLE_SC_ACCESS_KEY, TENABLE_SC_SECRET_KEY                              |
+| TenableSC | TENABLE_SC_HOST, TENABLE_SC_ACCESS_KEY, TENABLE_SC_SECRET_KEY             |
