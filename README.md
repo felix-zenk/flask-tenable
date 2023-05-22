@@ -1,7 +1,7 @@
 Flask-Tenable
 =============
 
-[![PyPI version](https://badge.fury.io/py/Flask-Tenable.svg)](https://pypi.org/project/Flask-Tenable)
+[![PyPI version](https://badge.fury.io/py/Flask_Tenable.svg)](https://pypi.org/project/Flask-Tenable)
 [![Python version](https://img.shields.io/badge/Python-3.7_%7C_3.8_%7C_3.9_%7C_3.10_%7C_3.11-blue)]()
 
 ---
