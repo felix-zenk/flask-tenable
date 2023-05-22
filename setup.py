@@ -19,6 +19,7 @@ setup(
         'that enables the easy integration of pyTenable into flask applications.'
     ),
     long_description=long_description(),
+    long_description_content_type='text/markdown',
     project_urls={
         'Source': 'https://github.com/felix-zenk/flask-tenable',
         'Documentation': f"https://pytenable.readthedocs.io/en/stable/",
